@@ -1,0 +1,15 @@
+011d3ef8e5387042d51052ee7c890cb5 *DESCRIPTION
+db70e71841cd829b9680469c1db5d1ff *NAMESPACE
+832865b3b370feda59db2b7f9d30d043 *R/IPW.MLMPN.R
+5338bd7b71c6dcb27050cf22f6f510ff *R/IPW.meandifference.R
+6460dee05c975d55ebff783030e2a85d *R/data.R
+5c960b2ac09a8f5223c8ba21d2320a28 *R/globalVars.R
+a44bbada26b6ec1acb041203aa9230ac *build/vignette.rds
+a8a043d5413d9cb28f3015b1add355d4 *data/dat_obs.rda
+34db3601aabdc985c2ce1e1f7d9e7830 *inst/doc/IPWpn-vignette.R
+88042147d7a83c8795e39771a1844698 *inst/doc/IPWpn-vignette.Rmd
+3730980e0d74c3375d9c86a1dcbbef77 *inst/doc/IPWpn-vignette.html
+b9d82f315c4d2e67568fb90b0a5f25ca *man/IPW.MLMPN.Rd
+db03b366edb60de3498735801b4b97b4 *man/IPW.meandifference.Rd
+0d3d1e2d4ec4c6bce82c97dcc66dfef3 *man/dat_obs.Rd
+88042147d7a83c8795e39771a1844698 *vignettes/IPWpn-vignette.Rmd
